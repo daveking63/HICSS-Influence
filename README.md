@@ -24,7 +24,7 @@ To better understand and visualize the data set -- three visualization tools wer
 <li>HICSS Voyager: allows a user to explore the prevalence of terms and bigrams, charting the occurrence of that term in HICSS papers for every year between 1995 and 2015. A line chart of these counts is then presented, either in raw counts or normal-
 <li> Track Explorer: plots either the number of articles or the combined influence of all the articles within each of the HICSS tracks between 1996 and 2015.
 
-<h3>Tool Demo and Associated Paper
+<h3>Tool Demo and Associated Paper</h3>
 
 More details about the project are provided in the following paper:
 
