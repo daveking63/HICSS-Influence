@@ -1,5 +1,5 @@
 # HICSS-Influence
-Joint project focused on the development of a specialized visualization tool aimed understanding the influence of HICSS papers on other fields along with identifying the most influential authors and groups in HICSS.
+Joint project focused on the development of a specialized visualization tool aimed at understanding the influence of HICSS papers on other fields along with identifying the most influential authors and groups in HICSS.
 
 <h3>Overview</h3>
 
